@@ -4,5 +4,8 @@ public class New {
         String abc = "Shivraj sanjay khose";
         String aaa = "Pune";
         System.out.println(abc+" "+aaa);
+
+
+
     }
 }
